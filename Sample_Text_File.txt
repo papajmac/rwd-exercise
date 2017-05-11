@@ -1,0 +1,2 @@
+This file is added as part of GIT exercise.
+Users are free to edit the contents of this file during exercise.
