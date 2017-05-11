@@ -11,6 +11,8 @@ This exercise designed to help you become familiar with the steps you'll need to
 2. **Clone the repository**
 
     Once you've created your *fork* you'll want to *clone* the repository. This will download a working copy of the repository to your local machine. For more details, you may follow the steps for [cloning a repository](https://help.github.com/articles/cloning-a-repository/) outlined in the documentation.
+	
+	` git clone "[repo-url]"`
 
 3. **Create a branch**
 
