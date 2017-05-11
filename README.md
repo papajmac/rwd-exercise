@@ -20,7 +20,7 @@ This exercise designed to help you become familiar with the steps you'll need to
 
 4. **Commit your work**
 
-    Once you've made your feature branch, do some work and make at least two commits to become familiar with the `git add`, `git commit`, and `git status` commands.
+    Once you've made your feature branch, do some work and make at least two commits to become familiar with the `git add`, `git commit -m "commit message"`, and `git status` commands.
 
 5. **Push to your work**
 
