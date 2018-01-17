@@ -50,3 +50,4 @@ To create this upstream remote you can run:
 After doing so you can reference the parent repository as `upstream`. For example, to pull the recent changes from the `master` branch of the parent repository to your local copy, you can run:
 
     git pull upstream master
+Wed Jan 17 15:40:47 EST 2018
